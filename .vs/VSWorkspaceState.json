@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\testview",
+    "\\testview\\Controllers",
+    "\\testview\\DAL",
+    "\\testview\\Migrations",
+    "\\testview\\Models",
+    "\\testview\\Properties"
+  ],
+  "SelectedNode": "\\testview\\Models\\Student.cs",
+  "PreviewInSolutionExplorer": false
+}
